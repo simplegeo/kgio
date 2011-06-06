@@ -1,0 +1,5 @@
+kgio (2.4.1-0sg0) unstable; urgency=low
+
+  * Initial release of debian packaging.
+
+ -- Paul Lathrop <paul@simplegeo.com>  Mon, 06 Jun 2011 18:47:46 +0000

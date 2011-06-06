@@ -1,0 +1,15 @@
+Source: kgio
+Section: ruby
+Priority: extra
+Maintainer: Paul Lathrop <paul@simplegeo.com>
+Build-Depends: cdbs, debhelper (>= 7), ruby-pkg-tools, ruby-dev
+Standards-Version: 3.8.3
+Homepage: http://bogomips.org/kgio/
+
+Package: libkgio-ruby
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby
+Description: kgio provides non-blocking I/O methods for Ruby
+ Non-blocking I/O methods for Ruby, intended for use with the Unicorn
+ and Rainbows! Rack servers, but may be used by other applications
+ (that run on Unix-like platforms).
