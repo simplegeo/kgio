@@ -1,3 +1,12 @@
+kgio (2.4.1-0sg6) lucid; urgency=low
+
+  [ Paul Lathrop ]
+  * maybe I really should use the setup.rb stuff
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 07 Jun 2011 00:28:44 +0000
+
 kgio (2.4.1-0sg5) lucid; urgency=low
 
   * UNRELEASED
